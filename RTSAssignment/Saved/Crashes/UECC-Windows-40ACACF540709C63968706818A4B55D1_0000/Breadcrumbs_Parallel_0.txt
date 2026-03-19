@@ -1,0 +1,7 @@
+Breadcrumbs 'Parallel'
+ - LumenScreenProbeGather
+ - DiffuseIndirectAndAO
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 1
